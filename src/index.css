@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: "Almarai", sans-serif;
+  font-family: "Cairo", sans-serif;
+  font-family: "Work Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.rectangle {
+  height: 600px;
+  border-radius: 15px;
+  background-color: #ffddaacc;
+  box-shadow: 1px 4px 4px 1px;
+}
+
+.icon {
+  height: 70px;
+  border-radius: 50%;
+}
